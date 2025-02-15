@@ -1,4 +1,4 @@
-### Introduction ###
+# Introduction
 The goal of this project is to develop a predictive model using machine learning classification algorithms to identify students who are likely to drop out. By leveraging data on student demographics, academic performance, socio-economic factors, and other relevant variables, the aim is to build a robust predictive model that can effectively forecast the likelihood of students dropping out. 
 
 # Appendix
