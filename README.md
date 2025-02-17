@@ -32,3 +32,15 @@ The table below gives a brief description of each column/field in the dataset
 |24.| Inflation rate | The Inflation rate % | |
 |25.| GDP | GDP per capita (USD) | |
 |26.| Target | Status of the student |Graduate <br> Dropout<br> Enrolled |
+
+## Setup
+
+### Run it locally
+#### Clone the repo
+```
+$ git clone https://github.com/harish-v07/Student-Dropout-Prediction.git
+```
+In the project root run:
+```
+$ python dropout.py
+```
